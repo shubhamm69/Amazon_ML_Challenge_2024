@@ -3,3 +3,5 @@ sampled_train_images
 .ipynb_checkpoints
 src/__pycache__
 env
+__pycache__
+.DS_Store
